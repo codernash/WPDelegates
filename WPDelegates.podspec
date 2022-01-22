@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WPDelegates'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '一个方便易用的多播代理工具'
 
 # This description is used to generate tags and improve search results.
@@ -29,6 +29,4 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'WPDelegates/Classes/**/*'
-
-  s.public_header_files = 'WPDelegates/Classes/WPDelegates.h'
 end
