@@ -1,0 +1,6 @@
+framework module WPDelegates {
+  umbrella header "WPDelegates-umbrella.h"
+
+  export *
+  module * { export * }
+}
