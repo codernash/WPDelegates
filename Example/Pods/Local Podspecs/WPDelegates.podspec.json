@@ -1,0 +1,23 @@
+{
+  "name": "WPDelegates",
+  "version": "0.1.0",
+  "summary": "A short description of WPDelegates.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/stevepeng13/WPDelegates",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "stevepeng13": "stevepeng13@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/stevepeng13/WPDelegates.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WPDelegates/Classes/**/*",
+  "public_header_files": "WPDelegates/Classes/WPDelegates.h"
+}
